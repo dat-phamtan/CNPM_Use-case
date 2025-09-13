@@ -8,8 +8,8 @@
 | **Primary actor** | Student |
 | **Secondary actors** | HCMUT_SSO (xác thực)<br>Tutor Coordinator (quản lý Tutor) |
 | **Trigger** | Student đã đăng nhập và nhấn nút "Đăng ký chương trình Tutor" |
-| **Pre-conditions** | - Student đã có tài khoản trong hệ thống HCMUT_SSO <br> - Student chưa từng tham gia chương trình Tutor |
-| **Post-conditions** | - Student được xác nhận tham gia chương trình <br> - Student đã được gán cho một Tutor <br> - Dữ liệu được lưu để Tutor Coordinator theo dõi |
+| **Pre-conditions** | Student đã có tài khoản trong hệ thống HCMUT_SSO <br> Student chưa từng tham gia chương trình Tutor |
+| **Post-conditions** | Student được xác nhận tham gia chương trình <br> Student đã được gán cho một Tutor <br> - Dữ liệu được lưu để Tutor Coordinator theo dõi |
 
 ---
 
