@@ -13,7 +13,7 @@
 
 ---
 
-### Main flow (Happy path)
+### Main flow 
 
 | Step | Mô tả |
 |--|--|
