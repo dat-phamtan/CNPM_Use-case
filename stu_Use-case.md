@@ -22,21 +22,21 @@
 
 ### II. Main flow
 
-1 Student đăng nhập bằng HCMUT_SSO
+**1** Student đăng nhập bằng HCMUT_SSO
 
-2 Student nhấn "Đăng ký chương trình Tutor" để vào trang mở form đăng ký
+**2** Student nhấn "Đăng ký chương trình Tutor" để vào trang mở form đăng ký
 
-3 Student kiểm tra thông tin được điền sẵn dựa vào HCMUT_SSO, điền thông tin còn thiếu như: môn/vấn đề cần trợ giúp, thời gian ưu tiên
+**3** Student kiểm tra thông tin được điền sẵn dựa vào HCMUT_SSO, điền thông tin còn thiếu như: môn/vấn đề cần trợ giúp, thời gian ưu tiên
 
-4 Student nhấn "Xác nhận" để gửi yêu cầu
+**4** Student nhấn "Xác nhận" để gửi yêu cầu
 
-5 Hệ thống kiểm tra dữ liệu rồi hiển thị danh sách Tutor gợi ý
+**5** Hệ thống kiểm tra dữ liệu rồi hiển thị danh sách Tutor gợi ý
 
-6 Student chọn Tutor rồi nhấn "Chọn" để gửi
+**6** Student chọn Tutor rồi nhấn "Chọn" để gửi
 
-7 Hệ thống xác nhận dữ liệu và lưu đăng ký
+**7** Hệ thống xác nhận dữ liệu và lưu đăng ký
 
-8 Hệ thống hiển thị kết quả trên màn hình "Đăng ký thành công" và gửi mail xác nhận
+**8** Hệ thống hiển thị kết quả trên màn hình "Đăng ký thành công" và gửi mail xác nhận
 
 ---
 
