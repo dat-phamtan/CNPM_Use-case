@@ -6,7 +6,11 @@
   + Student (primary)
   + HCMUT_SSO (secondary - xác thực)
   + Tutor Coordinator (secondary - quản lý Tutor)
- 
+
+- Description: Student có thể tham gia chương trình Tutor, điền thông tin cần hỗ trợ và chọn Tutor phù hợp để được hỗ trợ học tập
+
+- Priority: Cao
+
 - Trigger: Student đã đăng nhập nhấn nút "Đăng ký chương trình Tutor"
 
 - Pre-conditions:
