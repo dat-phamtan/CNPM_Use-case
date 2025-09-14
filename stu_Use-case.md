@@ -1,4 +1,4 @@
-##I. Các thành phần chính
+### I. Các thành phần chính
 - Use Case: Student đăng ký tham gia chương trình Tutor và chọn Tutor
 - Actors:
   + Student (primary)
@@ -15,7 +15,7 @@
 
 ---
 
-###II. Main flow
+### II. Main flow
 1 Student đăng nhập bằng HCMUT_SSO
 2 Student nhấn "Đăng ký chương trình Tutor" để vào trang mở form đăng ký
 3 Student kiểm tra thông tin được điền sẵn dựa vào HCMUT_SSO, điền thông tin còn thiếu như: môn/vấn đề cần trợ giúp, thời gian ưu tiên
@@ -27,7 +27,7 @@
 
 ---
 
-##III. Alternative flow
+### III. Alternative flow
 1a. Nếu Student nhập sai tên đăng nhập, mật khẩu hoặc để trống --> Hiển thị thông báo lỗi "Tên đăng nhập hoặc mật khẩu không chính xác", quay lại bước 1
 3a. Nếu Student không nhập đủ thông tin cho các mục (môn/vấn đề, thời gian,...) --> Hiển thị thông báo lỗi "Vui lòng nhập đầy đủ thông tin", quay lại bước 3
 5a. Nếu không kết nối được với Database --> Hiển thị thông báo lỗi "Hệ thống bận, thử lại sau", quay lại bước 4
