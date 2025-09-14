@@ -28,8 +28,8 @@
 ---
 
 ### III. Alternative flow
-1a. Nếu Student nhập sai tên đăng nhập, mật khẩu hoặc để trống --> Hiển thị thông báo lỗi "Tên đăng nhập hoặc mật khẩu không chính xác", quay lại bước 1
-3a. Nếu Student không nhập đủ thông tin cho các mục (môn/vấn đề, thời gian,...) --> Hiển thị thông báo lỗi "Vui lòng nhập đầy đủ thông tin", quay lại bước 3
-5a. Nếu không kết nối được với Database --> Hiển thị thông báo lỗi "Hệ thống bận, thử lại sau", quay lại bước 4
-7a. Nếu không kết nối được với Database --> Hiển thị thông báo lỗi "Hệ thống bận, thử lại sau", quay lại bước 6
-7b. Nếu Tutor được chọn chưa có lịch phù hợp --> Hiển thị thông báo lỗi "Tutor hiện có lịch chưa phù hợp, vui lòng chọn Tutor khác", quay lại bước 6
+**1a.** Nếu Student nhập sai tên đăng nhập, mật khẩu hoặc để trống --> Hiển thị thông báo lỗi "Tên đăng nhập hoặc mật khẩu không chính xác", quay lại bước 1
+**3a.** Nếu Student không nhập đủ thông tin cho các mục (môn/vấn đề, thời gian,...) --> Hiển thị thông báo lỗi "Vui lòng nhập đầy đủ thông tin", quay lại bước 3
+**5a.** Nếu không kết nối được với Database --> Hiển thị thông báo lỗi "Hệ thống bận, thử lại sau", quay lại bước 4
+**7a.** Nếu không kết nối được với Database --> Hiển thị thông báo lỗi "Hệ thống bận, thử lại sau", quay lại bước 6
+**7b.** Nếu Tutor được chọn chưa có lịch phù hợp --> Hiển thị thông báo lỗi "Tutor hiện có lịch chưa phù hợp, vui lòng chọn Tutor khác", quay lại bước 6
