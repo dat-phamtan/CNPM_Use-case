@@ -6,6 +6,8 @@
 |--|--|
 | **Use-case name** | Student đăng ký tham gia chương trình Tutor và chọn Tutor |
 | **Primary actor** | Student |
+| **Use-case description** | Student có thể đăng ký tham gia chương trình Tutor, điền thông tin cần hỗ trợ và chọn Tutor phù hợp để được hỗ trợ học tập |
+| **Use-case priority** | Cao |
 | **Secondary actors** | HCMUT_SSO (xác thực)<br>Tutor Coordinator (quản lý Tutor) |
 | **Trigger** | Student đã đăng nhập và nhấn nút "Đăng ký chương trình Tutor" |
 | **Pre-conditions** | Student đã có tài khoản trong hệ thống HCMUT_SSO <br> Student chưa từng tham gia chương trình Tutor |
